@@ -4,8 +4,9 @@
 * Major in Computer Science
 * Minor in CTP (Cultural Technology graduate school minor Program)
 
-## Interest
-* Research on Programming Languages
+## Interests
+* Programming Languages
+  * Concurrent Memory model
 * Safe Web Applications
 * Video games development
 * Electronic music
