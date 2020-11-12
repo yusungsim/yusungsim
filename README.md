@@ -6,7 +6,7 @@
 
 ## Interests
 * Programming Languages
-  * Concurrent Memory model
+  * Concurrent memory model
 * Safe Web Applications
 * Video games development
 * Electronic music
