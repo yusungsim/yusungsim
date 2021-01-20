@@ -12,10 +12,10 @@
 * Electronic music
 
 ## Language
+* Scala/Java
+* JavaScript
 * Python
 * C/C++
-* Java
-* JavaScript
 * Scheme/Racket
 * OCaml
 * Haskell
