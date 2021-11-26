@@ -1,6 +1,6 @@
 # Yusung Sim 심유성
 
-[![Yusung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusungsim)]
+[![Yusung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusungsim)](github.com/yusungsim)
 
 ## Profile
 * Master Student @ PLRG, KAIST, Republic of Korea
